@@ -1,23 +1,22 @@
-###Setup
-move to your project dir
+# Setup
+### move to your project dir
 
 ```
 run command
 ```
 
-# if you use npm ? run command
+### if you use npm ? run command
 ```
 npm install
 ```
 
-# if you use yarn ? run command
+### if you use yarn ? run command
 
 ```
 yarn install
 ```
 
-touch .env
-And write values
+### touch .env And write values
 ```
 REACT_APP_FIREBASE_APIKEY="YOUR_KEY"
 REACT_APP_FIREBASE_DOMAIN="YOUR_KEY"
